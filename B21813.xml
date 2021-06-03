@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of the act for granting to his Majesty the sum of one million four hundred eighty four thousand and fifteen pounds one shilling eleven pence three farthings, for disbanding forces, paying seamen, and other uses therein mentioned. Anno 9 &amp; 10 W. III.</title>
+            <title>Public General Acts. 1697. 9 &amp; 10 William III c.10. Abstracts.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 26KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21813</idno><idno type="EEBO-CITATION">99827286</idno>
+  <idno type="VID">206851</idno>
+  <idno type="EEBO-PROQUEST">2240881080</idno>
+  
+            <idno type="STC">Wing E959</idno>
+            <idno type="PROQUEST">99827286</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827286e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21813)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206851)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1846:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of the act for granting to his Majesty the sum of one million four hundred eighty four thousand and fifteen pounds one shilling eleven pence three farthings, for disbanding forces, paying seamen, and other uses therein mentioned. Anno 9 &amp; 10 W. III.</title>
+                  <title>Public General Acts. 1697. 9 &amp; 10 William III c.10. Abstracts.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Charles Bill, and the executrix of Thomas Newcomb deceas'd, printers to the Kings most Excellent Majesty,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>MDCXCVIII. [1698]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term type="geographic_name">England and Wales --  Armed Forces --  Appropriations and expenditures --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb n="1" facs="tcp:206851:1"/>
+            <head>
+               <hi>AN ABSTRACT OF THE</hi> Act for Granting to His Majesty the Sum of One Million four hun<g ref="char:EOLhyphen"/>dred eighty four thousand and fifteen Pounds One Shilling Eleven Pence Three Farthings, for Disbanding Forces, Paying Seamen, and other Ʋses therein mentioned.</head>
+            <opener>
+               <dateline>
+                  <date>Anno 9 &amp; 10 <hi>W.</hi> III.</date>
+               </dateline>
+            </opener>
+            <p>ENACTED, That the Sum of One <note place="margin">
+                  <hi>Pag.</hi> 84.</note> Million four hundred eighty four thousand and fifteen Pounds One Shilling Eleven Pence Three Far<g ref="char:EOLhyphen"/>things, be Levied and Paid to His Majesty, within the space of One Year from 2 <hi>Febr.</hi> 1697. according to the Proportions on the several Cities, Towns and Counties in the Act mention'd.</p>
+            <p>Towards the Raising whereof, all Persons having any Estate in Ready Money or Debts, <note place="margin">
+                  <hi>p.</hi> 97.</note> Wares, Merchandizes or other Chattels, except such Debts as they do, <hi>bona fide,</hi> owe, and Desperate Debts owing to them, and except <note place="margin">
+                  <hi>p.</hi> 98.</note> Stock upon Land and Houshold Goods, and Loans to His Majesty, shall pay 3 <hi>s.</hi> in the Pound of the true yearly value for One Year, that is to say, For every Hundred Pounds, the Sum of 18 <hi>s.</hi> and so for a greater or lesser Sum.</p>
+            <p>All Persons having any publick Office or Im<g ref="char:EOLhyphen"/>ployment of Profit (Military Officers in Muster or Pay in His Majesties Guards, Garisons or Navy excepted) and their Agents, Clerks and Inferiour Ministers, shall pay 3 <hi>s.</hi> in the Pound for One year, out of the Fees or Profits of their Offices or Imployments.</p>
+            <p>All Manors, Messuages, Lands and Tene<g ref="char:EOLhyphen"/>ments, and all Quarries, Mines, Iron-works, Salt-works, Allom-works, all Parks, Chaces, <note place="margin">
+                  <hi>p.</hi> 99.</note> Warrens, Woods, Under-woods, Coppices, all Fishings, Tithes, Tolls, Annuities and o<g ref="char:EOLhyphen"/>ther Yearly Profits and Hereditaments, and all Persons, Bodies Politick and Corporate, Guilds and Fraternities, having any such Lands, Tenements or Hereditaments, shall be Charged with as much equality as possible towards the Sums by this Act Imposed; which shall be Paid into the Exchequer by Four Quarterly Pay<g ref="char:EOLhyphen"/>ments, <note place="margin">
+                  <hi>p.</hi> 100.</note> the first whereof to be upon 2 <hi>May</hi> 1698.</p>
+            <p>The Landlords, Owners and Proprietors of <note place="margin">
+                  <hi>p.</hi> 101.</note> such Lands, Tenements and Hereditaments, may abate out of every Fee-farm Rent or o<g ref="char:EOLhyphen"/>ther Annual Rent or Payment, so much as the same shall by a just proportion amount unto.</p>
+            <p>For the more effectual putting this Act in Execution, the several Persons in the Act na<g ref="char:EOLhyphen"/>med <note place="margin">
+                  <hi>p.</hi> 102.</note> shall be Commissioners; who shall meet to<g ref="char:EOLhyphen"/>gether in their several Districts, on or before 20 <hi>April</hi> 1698. and afterwards as often as shall <note place="margin">
+                  <hi>p.</hi> 269.</note> be necessary: and shall set down in Writing the Proportions to be paid by every Division for making up the whole Sum; and may subdi<g ref="char:EOLhyphen"/>vide themselves so as Two or more be appoint<g ref="char:EOLhyphen"/>ed for each Division, but not to restrain the Commissioners from Acting in any other part of the County or Place for which they are no<g ref="char:EOLhyphen"/>minated <note place="margin">
+                  <hi>p.</hi> 270.</note> Commissioners.</p>
+            <p>Which Commissioners at their General Meet<g ref="char:EOLhyphen"/>ing, shall give Lists to the Receiver General of those who are to act in each Division; which Commissioners in their several Divisions shall cause the Proportions to be equally Assessed, and shall direct their Precepts to such Inhabi<g ref="char:EOLhyphen"/>tants, <hi>&amp;c.</hi> as they shall think convenient to be Presenters and Assessors, Requiring them to ap<g ref="char:EOLhyphen"/>pear at a place and time not exceeding Ten days, and shall then charge them with the Exe<g ref="char:EOLhyphen"/>cution <note place="margin">
+                  <hi>p.</hi> 271.</note> of this Act: And if any persons to whom such Precept is directed, shall absent themselves, without lawful Excuse, or shall refuse to serve, they shall forfeit a Sum not ex<g ref="char:EOLhyphen"/>ceeding 5 <hi>l.</hi>
+            </p>
+            <p>The Commissioners shall appoint Two or more of the most sufficient Inhabitants of each Parish, <hi>&amp;c.</hi> to be Assessors, and shall prefix <note place="margin">
+                  <hi>p.</hi> 272.</note> them a day and place to bring in their Assess<g ref="char:EOLhyphen"/>ments, who are to Assess the full Sum given them in Charge, and bring in a Certificate thereof, with the Names of Two or more a<g ref="char:EOLhyphen"/>ble Persons, living within the respective limits, to be Collectors, for whom the Parish or Place shall be answerable.</p>
+            <p>Every Assessor, before he acts, shall take the Oaths appointed 1 <hi>W. &amp; M.</hi> to be Administred <note place="margin">
+                  <hi>p.</hi> 273.</note> to them by Two or more of the Commission<g ref="char:EOLhyphen"/>ers, and shall deliver one Copy of their As<g ref="char:EOLhyphen"/>sessment to the Commissioners, who shall Sign and Seal Two Duplicates thereof, one to be delivered to the Collectors, the other (in
+<pb n="2" facs="tcp:206851:2"/> Parchment) to the Receiver General, con<g ref="char:EOLhyphen"/>taining the full Sum Assessed on each Parish or <note place="margin">
+                  <hi>p.</hi> 274.</note> Place; and shall transmit a like Duplicate to the Kings Remembrancers Office, on or before 24 <hi>June</hi> 1698. or within 20 days after, all Ap<g ref="char:EOLhyphen"/>peals being first determined.</p>
+            <p>The Collectors shall Levy the Rates so Assess<g ref="char:EOLhyphen"/>ed, and shall demand the same of the Parties themselves, or at the place of their last abode, or upon the premisses charged, and shall pay the same to the Receiver General or his Deputy, at such time and place as the Commissioners shall appoint, so as the whole Sum for each Quarter<g ref="char:EOLhyphen"/>ly <note place="margin">
+                  <hi>p.</hi> 275.</note> Payment be made according to the Act.</p>
+            <p>And the Receiver General is to give Notice of his Deputies to the Commissioners within Ten days after the first General Meeting, and so within Ten days after the death or re<g ref="char:EOLhyphen"/>moval of any Deputy; And the Receipt of such Receiver General or his Deputies, shall be a Discharge to the Collectors, who shall not be obliged to travel above Ten Miles from their Habitations.</p>
+            <p>The Sum of 371003 <hi>l.</hi> 15 <hi>s.</hi> 6 <hi>d.</hi> for the first <note place="margin">
+                  <hi>p.</hi> 276.</note> Quarterly Payment shall be paid to the Receivers General on or before 2 <hi>May</hi> 1698. And the like Sum for the second Quarterly Payment on or before 2 <hi>Aug.</hi> 1698. The like Sum for the third Quarterly Payment, on or before 2 <hi>Nov.</hi> 1698. And the Sum of 371003 <hi>l.</hi> 15 <hi>s.</hi> 5 <hi>d.</hi> three Farthings for the last Quarterly Payment, on or before 2 <hi>Feb.</hi> 1698.</p>
+            <p>Every Receiver General within a Month after he shall have received the full Sum char<g ref="char:EOLhyphen"/>ged on any Division for each particular pay<g ref="char:EOLhyphen"/>ment, shall give the Commissioners a Receipt, which shall be a full Discharge for such parti<g ref="char:EOLhyphen"/>cular <note place="margin">
+                  <hi>p.</hi> 277.</note> Payment; Which Receivers General shall within Twenty days after their Receipt, pay the same into the Exchequer, and shall be Al<g ref="char:EOLhyphen"/>low'd 2 <hi>d.</hi> in the Pound for what they shall so pay in.</p>
+            <p>The Collectors shall have 3 <hi>d.</hi> in the Pound for what they Collect and Pay pursuant to the Act; And the Commissioners Clerks shall be <note place="margin">
+                  <hi>p.</hi> 278.</note> Allow'd Three Half-pence in the Pound for Writing the Assessments, Duplicates, <hi>&amp;c.</hi>
+            </p>
+            <p>Persons refusing or neglecting to pay, the Collectors are to Levy the Sum Assess'd by Distress; and having kept the same Four Days <note place="margin">
+                  <hi>p.</hi> 279.</note> at the Owners Charge, then to be Appraised and Sold, and the Overplus return'd. And it shall be Lawful to break open Houses in the day time, and by Warrant from Two Commis<g ref="char:EOLhyphen"/>sioners, any Chest, <hi>&amp;c.</hi> calling to assistance the Constables, <hi>&amp;c.</hi> and all Questions concern<g ref="char:EOLhyphen"/>ing Distresses shall be Determin'd by the Com<g ref="char:EOLhyphen"/>missioners.</p>
+            <p>Persons refusing to pay their Assessment by <note place="margin">
+                  <hi>p.</hi> 280.</note> the space of Four days after Demand, or con<g ref="char:EOLhyphen"/>veying away their Goods (except a Peer or Peeress) shall be Committed to Goal, till Pay<g ref="char:EOLhyphen"/>ment be made.</p>
+            <p>The Tenants are to Pay the Tax, and de<g ref="char:EOLhyphen"/>duct the same out of their Rents; which the Landlords are requir'd to Allow.</p>
+            <p>Tenants paying the Assessments, shall be Dis<g ref="char:EOLhyphen"/>charg'd for so much; and the Commissioners shall have power to Settle Differences between <note place="margin">
+                  <hi>p.</hi> 281.</note> Landlord and Tenant, or others concerning the Tax.</p>
+            <p>Persons over Rated, Complaining to the Commissioners within Six days after Demand, may be Relieved within Ten days after De<g ref="char:EOLhyphen"/>mand of the said Assessment; and Appeals once determin'd to be final.</p>
+            <p>In case the Proportions set by this Act on a<g ref="char:EOLhyphen"/>ny County, <hi>&amp;c.</hi> shall not be duly answer'd as first Laid, the Commissioners are to cause new <note place="margin">
+                  <hi>p.</hi> 282.</note> Assessments to be made.</p>
+            <p>Any Person neglecting or refusing to do his Duty in the Execution of the Act, may be Fined as the Commissioners shall think fit, <note place="margin">
+                  <hi>p.</hi> 283.</note> not exceeding 20 <hi>l.</hi> which Fine shall not be taken off but by consent of the Commissioners who Impos'd the same, but shall be paid into the Exchequer, and Inserted in the Dupli<g ref="char:EOLhyphen"/>cates.</p>
+            <p>Collectors not Paying the Money they Re<g ref="char:EOLhyphen"/>ceive as the Act Directs, are to be Imprison'd, and their Estates Real and Personal seis'd and <note place="margin">
+                  <hi>p.</hi> 284.</note> sold for Satisfaction.</p>
+            <p>The Commissioners are to Examine whether the Money Assess'd be duly Collected and Re<g ref="char:EOLhyphen"/>turned <note place="margin">
+                  <hi>p.</hi> 285.</note> to the Receivers General, and by them Paid into the Exchequer, and in case of failure, to cause the same to be forthwith Levied and Paid.</p>
+            <p>In case any Controversie arise about the As<g ref="char:EOLhyphen"/>sessments which concerns any Commissioners, the Commissioners concern'd are to withdraw during the Debate, and in default, the Com<g ref="char:EOLhyphen"/>missioners <note place="margin">
+                  <hi>p.</hi> 286.</note> present may set a Fine, not exceed<g ref="char:EOLhyphen"/>ing 20 <hi>l.</hi>
+            </p>
+            <p>No Priviledged Place or Person shall be Exempt from the Assessment; But they and al<g ref="char:EOLhyphen"/>so all Fee-Farm, and other Rents and Pay<g ref="char:EOLhyphen"/>ments issuing out of Land, shall be Taxed and Paid by the Tenants, who shall thereupon be kept harmless.</p>
+            <p>This Act shall not extend to Charge any Col<g ref="char:EOLhyphen"/>lege or Hall in the Universities, the Colleges <note place="margin">
+                  <hi>p.</hi> 287.</note> of <hi>Windsor, Eaton, Winton</hi> and <hi>Westminster;</hi> the Corporation of Clergymens Sons, <hi>Bromley</hi> College, or any Hospital for the Sites thereof, nor any Master, Fellow, Scholar, Reader, Officer or Minister of the Universities, <hi>&amp;c.</hi> nor Masters or Ushers of Schools for their Sti<g ref="char:EOLhyphen"/>pends, nor the Houses or Lands of <hi>Christs Hospital,</hi> St. <hi>Bartholomews, Bridewell,</hi> St. <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> or <hi>Bethlehem</hi> Hospital; or Mr. <hi>Askes</hi> Ho<g ref="char:EOLhyphen"/>spital at <hi>Hoxton,</hi> or the Charity of <hi>Zechariah Jepson</hi> at <hi>Rippon,</hi> or of the said Corporation of Clegymens Sons, or <hi>Bromley</hi> College, nor any other Hospital or Alms-house in respect on<g ref="char:EOLhyphen"/>ly of Rents for the immediate Relief of the <note place="margin">
+                  <hi>p.</hi> 288.</note> Poor therein.</p>
+            <p>Nevertheless the Tenants of Lands or Hou<g ref="char:EOLhyphen"/>ses belonging to Hospitals, shall be Rated for what such Houses and Lands are worth a<g ref="char:EOLhyphen"/>bove the Rents reserved; And the Tenants to Colleges, <hi>&amp;c.</hi> who by their Leases or Contracts are to Pay Taxes, shall not be Discharged.</p>
+            <p>All Auditors and Receivers of Rents due to the King or Queen Dowager shall Allow a <note place="margin">
+                  <hi>p.</hi> 289.</note> Rate to be abated in Proportion to the Tax on the Lands, <hi>&amp;c.</hi> out of which they are pay<g ref="char:EOLhyphen"/>able.</p>
+            <p>Persons Inhabiting in <hi>London,</hi> or any other City or Town Corporate shall be Taxed in the Parish, or Ward where they dwell.</p>
+            <p>No Clause or Proviso in this Act shall lessen the Sum Appointed to be Levied by the Act. Nothing in this Act shall make void any Con<g ref="char:EOLhyphen"/>tracts <note place="margin">
+                  <hi>p.</hi> 290.</note> between Landlord or Tenant, or o<g ref="char:EOLhyphen"/>thers touching Payment of Taxes.</p>
+            <p>All Places shall be Assessed in such County, Division or Place where usually Assess'd. Pro<g ref="char:EOLhyphen"/>vided that <hi>West Barnfeild</hi> Hundred shall be As<g ref="char:EOLhyphen"/>sess'd in the Lath of <hi>Stray</hi> in <hi>Kent, Northmore</hi> Tything in the Hundred of <hi>Bampton</hi> in <hi>Ox<g ref="char:EOLhyphen"/>fordshire,</hi>
+               <pb n="3" facs="tcp:206851:2"/>
+               <hi>Charlbury, Faller,</hi> and <hi>Finstock</hi> Ty<g ref="char:EOLhyphen"/>things in the Hundred of <hi>Chadlington,</hi> the <note place="margin">
+                  <hi>p.</hi> 291.</note> Town and Parish of <hi>Leeds</hi> in <hi>Yorkshire,</hi> in the Hundred of <hi>Skyrack,</hi> And the Forest of <hi>Chute</hi> where the same was Assessed to the first 4 <hi>s.</hi> Aid.</p>
+            <p>If any Action be brought for any thing done in pursuance of this Act, the Defendant may Plead the General Issue, and give this Act, and the special Matter in Evidence, and if the Plaintiff be Nonsuit, <hi>&amp;c.</hi> the Defendant shall Recover Treble Costs.</p>
+            <p>Where Lands or Houses are unoccupied, and no Distress found, Distress may be made at any time after by the Collectors, Consta<g ref="char:EOLhyphen"/>ble, <note place="margin">
+                  <hi>p.</hi> 292.</note> or Tything Man, and unless redeem'd in Four Days, may be Sold, rendring the Over<g ref="char:EOLhyphen"/>plus to the Owner, and distributed propor<g ref="char:EOLhyphen"/>tionably to the Parties who Contributed to the Tax of the said unoccupied Lands.</p>
+            <p>Where Wood-Lands are Assessed, and no Distress can be had, the Collectors, <hi>&amp;c.</hi> by Warrant from the Commissioners (at season<g ref="char:EOLhyphen"/>able times of the year) may Cut down and Sell so much Wood (Timber Trees excepted) as will Pay the Assessment.</p>
+            <p>Where Tythes, Tolls, Profits of Markets, <hi>&amp;c.</hi> are Taxed, and the same not Paid in Fif<g ref="char:EOLhyphen"/>teen <note place="margin">
+                  <hi>p.</hi> 293.</note> days after Demand, the Collectors, <hi>&amp;c.</hi> by Warrant of the Commissioners may Seize so much of the said Tythes, <hi>&amp;c.</hi> as will pay the Tax.</p>
+            <p>Receivers General returning any Persons in<g ref="char:EOLhyphen"/>to the Exchequer who have paid the Tax, <note place="margin">
+                  <hi>p.</hi> 294.</note> shall Forfeit Treble Damages to the Party Grieved, and to His Majesty double the Sum Returned.</p>
+            <p>The Commissioners shall Assess each other for Personal Estates, and Offices, so as such <note place="margin">
+                  <hi>p.</hi> 295.</note> Personal Estate, and Office be within the Li<g ref="char:EOLhyphen"/>mits of the Commissioners who Tax the same: And the Commissioners shall also Assess the As<g ref="char:EOLhyphen"/>sessors.</p>
+            <p>No Person in any City, Borough, or Town Corporate shall be compelled to be an Assessor or Collector out of the Limits thereof.</p>
+            <p>The Tax on Houses where Foreign Ministers reside, shall be paid by the Owner.</p>
+            <p>In all Extra-Parochial and Priviledged Pla<g ref="char:EOLhyphen"/>ces, the Commissioners shall nominate Two <note place="margin">
+                  <hi>p.</hi> 296.</note> Persons in or near the said places to be Asses<g ref="char:EOLhyphen"/>sors, and shall appoint one or more Collectors.</p>
+            <p>The Commissioners shall not be liable to the Penalties in an Act 25 <hi>Car.</hi> 2. touching Popish Recusants.</p>
+            <p>No Commissioner shall act (unless it be in Administring Oaths) before he take the Oaths, <note place="margin">
+                  <hi>p.</hi> 297.</note> 1 <hi>W.</hi> &amp; <hi>M.</hi> which any Two of them may Ad<g ref="char:EOLhyphen"/>minister to any other Commissioner.</p>
+            <p>Any Commissioner acting before he hath ta<g ref="char:EOLhyphen"/>ken the Oaths, shall forfeit 200 <hi>l.</hi> to the King.</p>
+            <p>Offices shall be rated and paid for, where the same are Executed.</p>
+            <p>Offices in Chancery within the Liberty of the Rolls, shall be there Assessed.</p>
+            <p>Persons for personal Estates, and persons not being Housholders, shall be rated where Re<g ref="char:EOLhyphen"/>sident <note place="margin">
+                  <hi>p.</hi> 298.</note> at the Execution of the Act; And per<g ref="char:EOLhyphen"/>sons out of the Realm, shall be rated for per<g ref="char:EOLhyphen"/>sonal Estate, where last resident within this Realm.</p>
+            <p>Any person having Goods, <hi>&amp;c.</hi> in any Coun<g ref="char:EOLhyphen"/>ty (other than where he lives) shall be rated in the County where the Goods are; And per<g ref="char:EOLhyphen"/>sons for Lands, Tenements, <hi>&amp;c.</hi> shall be rated where the said Lands, <hi>&amp;c.</hi> lye.</p>
+            <p>Any persons in respect of several places of Residence, being doubly charged for personal <note place="margin">
+                  <hi>p.</hi> 299.</note> Estate, shall upon Certificate and Oath thereof, be discharged for so much as is so Certified.</p>
+            <p>This Act shall not extend to personal Estates in <hi>Scotland, Ireland, Jersey</hi> or <hi>Guernsey.</hi>
+            </p>
+            <p>If any person by changing his Residence, or other fraud, escape being Taxed for personal Estate, upon proof thereof he shall be charged treble.</p>
+            <p>Every Housholder shall upon Demand, give <note place="margin">
+                  <hi>p.</hi> 300.</note> an Account of his Lodgers to the Assessors, un<g ref="char:EOLhyphen"/>der penalty of 5 <hi>l.</hi>
+            </p>
+            <p>Shares in the <hi>New-River-Water, Thames, Marybone</hi> or <hi>Hampsted</hi> Waters, Offices of In<g ref="char:EOLhyphen"/>surance from Fire, Convex or other Lights, and Stock in the <hi>Kings-Printing-House,</hi> shall be Taxed 3 <hi>s.</hi> in the Pound; And the said Shares, <note place="margin">
+                  <hi>p.</hi> 301.</note> and all Companies of Merchants in <hi>London,</hi> shall be Assessed by the Commissioners for <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and payed by the Governours, and the respective Treasurers or Receivers.</p>
+            <p>Every Papist of the Age of 16 Years or up<g ref="char:EOLhyphen"/>wards, who shall not have taken the Oaths re<g ref="char:EOLhyphen"/>quired <hi>An.</hi> 1 <hi>W.</hi> &amp; <hi>M.</hi> shall pay double Taxes, unless such Papist within 10 days after the first <note place="margin">
+                  <hi>p.</hi> 302.</note> Meeting of the Commissioners do take the same before Two Commissioners.</p>
+            <p>Every person of the Age of 16 years or up<g ref="char:EOLhyphen"/>wards, refusing to take the said Oaths, or neglecting to appear before the Commissio<g ref="char:EOLhyphen"/>ners, in Order to take the same when Sum<g ref="char:EOLhyphen"/>moned, shall likewise pay double.</p>
+            <p>Every Gentleman, or so reputed, who by the <note place="margin">
+                  <hi>p.</hi> 303.</note> Act for the Quarterly Poll, 3 <hi>W.</hi> &amp; <hi>M.</hi> did or ought to have paid double, and doth not vo<g ref="char:EOLhyphen"/>luntarily appear before the Commissioners, within Ten days after the first Meeting, and take the said Oaths, shall likewise pay double.</p>
+            <p>The Commissioners upon Information or Sus<g ref="char:EOLhyphen"/>picion, shall Summon every person Suspected, <note place="margin">
+                  <hi>p.</hi> 304.</note> to Appear and take the said Oaths.</p>
+            <p>But Quakers instead of the Oaths, may Make and Subscribe the Declaration of Fidelity, 1 <hi>W.</hi> &amp; <hi>M.</hi> Where the Assessors neglect to make double Assessments on Papists or others, for not taking the Oaths, the Commissioners shall cause <note place="margin">
+                  <hi>p.</hi> 305.</note> it to be done.</p>
+            <p>Where the Owners of Lands, <hi>&amp;c.</hi> are liable to be double Charged, such Owners only shall be so Charged, and the Tenants Discharged, notwithstanding any Covenant for Payment of Taxes.</p>
+            <p>The Kings-Bench-Prison, with its Lands, and the Rents and Perquisites of the Marshal there<g ref="char:EOLhyphen"/>of; and also the Marshalsea-Prison, and Office, and Perquisites of the Marshalsea-Court, shall be Assessed in the Parish of St. <hi>George</hi> in <hi>South<g ref="char:EOLhyphen"/>wark.</hi>
+               <note place="margin">
+                  <hi>p.</hi> 306.</note>
+            </p>
+            <p>The Water-works in <hi>Southwark</hi> shall be As<g ref="char:EOLhyphen"/>sessed by the Commissioners and Assessors of <hi>Surrey;</hi> and the Water-works in <hi>Westminster,</hi> by the Commissioners and Assessors of <hi>Westmin<g ref="char:EOLhyphen"/>ster.</hi>
+            </p>
+            <p>All persons concern'd are to use their utmost Endeavours for the due Execution of the Act.</p>
+            <p>No person shall be liable to the Pound Rate, <note place="margin">
+                  <hi>p.</hi> 307.</note> whose Lands, <hi>&amp;c.</hi> are not 20 <hi>s. per Annum</hi> in the whole.</p>
+            <p>If any Collector shall keep the Money in his hands, or Pay any part thereof, other than to the Receiver General or his Deputy, he shall Forfeit 20 <hi>l.</hi> And the Receiver General or his Deputy, not Paying the same, as the Act directs, he shall Forfeit 500 <hi>l.</hi>
+            </p>
+            <pb n="4" facs="tcp:206851:3"/>
+            <p>The Commissioners of the Treasury, <hi>&amp;c.</hi> shall not divert the Payment of the said Moneys into <note place="margin">
+                  <hi>p.</hi> 308.</note> the Exchequer, nor shall the Officers of the Ex<g ref="char:EOLhyphen"/>chequer strike any Talley of Pro, or Anticipa<g ref="char:EOLhyphen"/>tion on the same, or any Teller, charge him<g ref="char:EOLhyphen"/>self therewith till actually Received.</p>
+            <p>No <hi>noli prosequi</hi> or other stay of Prosecution, shall be allowed in any Suit against Offenders herein. <note place="margin">
+                  <hi>p.</hi> 309.</note>
+            </p>
+            <p>The Commissioners are Impowered to lessen the Assessment, on Proof that the Lands, <hi>&amp;c.</hi> are Charged above 3 <hi>s.</hi> in the Pound, and the Money so abated, shall be Reassessed as they shall judge most equal, either on the whole Hun<g ref="char:EOLhyphen"/>dred or Division, or on such part thereof, as shall appear to be undercharged.</p>
+            <p>The Receivers General shall be Answerable <note place="margin">
+                  <hi>p.</hi> 310.</note> for their Deputies, and shall nominate so ma<g ref="char:EOLhyphen"/>ny of them, that no Subcollector may be forced to Travel above Ten Miles for Payment of the Moneys by him Collected; And in default of such Nomination, to Forfeit 100 <hi>l.</hi> one Moiety to His Majesty, the other to the Prose<g ref="char:EOLhyphen"/>cutor.</p>
+            <p>In case there be not a sufficient number of Commissioners, capable of Acting for any Ci<g ref="char:EOLhyphen"/>ty, <note place="margin">
+                  <hi>p.</hi> 311.</note>
+               <hi>&amp;c.</hi> any of the Commissioners for the Coun<g ref="char:EOLhyphen"/>ty at large, may Act for such City, <hi>&amp;c.</hi>
+            </p>
+            <p>Members of Parliament Abiding in or about <hi>London</hi> and <hi>Westminster,</hi> shall be Assessed for any Tax to be laid on their Persons, or Personal Estates, during this Session, where their Man<g ref="char:EOLhyphen"/>sion-Houses are, or where they usually Reside in the Intervals of Parliament.</p>
+            <p>The First General Meeting of the Com<g ref="char:EOLhyphen"/>missioners <note place="margin">
+                  <hi>p:</hi> 312.</note> for the West-Riding of <hi>Yorkshire,</hi> shall be at <hi>Pontefract,</hi> for the North-Riding at <hi>Thirske,</hi> and for the Fast-Riding at <hi>Kilham.</hi>
+            </p>
+            <p>A Register shall be kept by the Auditor of the Exchequer, of all the Moneys arising by this Act, and one other Register of all Orders for Mo<g ref="char:EOLhyphen"/>neys Payable thereout.</p>
+            <p>The Principal Sums lent between 8 <hi>Oct.</hi> 1697. and 4 <hi>Apr.</hi> 1698. not exceeding 850000 <hi>l.</hi>
+               <note place="margin">
+                  <hi>p.</hi> 313.</note> shall be in the first place Transferred and paid in due course out of the Moneys arising by this Act, with Interest at 8 <hi>per Cent.</hi> Payable every Three Months; and the Orders for the same may be Assignable.</p>
+            <p>And in the next place, so much as on 11 <hi>Apr.</hi> 1698. shall not be Raised of the 255663 <hi>l.</hi> 5 <hi>s.</hi>
+               <note place="margin">
+                  <hi>p.</hi> 314.</note> 8 <hi>d.</hi> for Paying of several Annuities, Incurred between 17 <hi>May,</hi> 1696. and 17 <hi>May,</hi> 1697. on the late Duty of Tunnage on Ships, and the Duties on Salt, shall be Transferred and Paid out of this Act, without Interest.</p>
+            <p>The Orders for the said Annuities shall be <note place="margin">
+                  <hi>p.</hi> 315.</note> Registred in the name of the Paymasters there<g ref="char:EOLhyphen"/>of, that are or shall be Appointed by the Com<g ref="char:EOLhyphen"/>missioners of the Treasury.</p>
+            <p>Any Persons, Natives or Foreigners, may lend His Majesty on the Credit of this Act, any Sums, which together with the Transferrences aforesaid, shall not exceed 1400000 <hi>l.</hi> (of which 250000 <hi>l.</hi> shall be Applied towards Dis<g ref="char:EOLhyphen"/>banding the Army) with Interest, at 8 <hi>p. Cent. p. An.</hi> and the Money so lent on this Act shall not be Taxed, and the Orders upon such Loans <note place="margin">
+                  <hi>p.</hi> 316.</note> shall be Registred, and Paid in Course.</p>
+            <p>And the Moneys Arising by this Act, shall be <note place="margin">
+                  <hi>p.</hi> 317.</note> Applied to the Paying off the said Loans, and not to be diverted to any other use.</p>
+            <p>No Fee shall be taken for Entring any such Orders, or for Searches, on pain of treble Da<g ref="char:EOLhyphen"/>mages, nor any undue Preference, on pain of Paying the value of the Debt, with Damages and Costs, and loss of Place.</p>
+            <p>All Orders for Loans on this Act may be Assign'd. <note place="margin">
+                  <hi>p.</hi> 319.</note>
+            </p>
+            <p>The Loans upon this Act, may be made either in Money, or in Exchequer-Bills, which Bills <note place="margin">
+                  <hi>p.</hi> 320.</note> (except so much as shall be sufficient to com<g ref="char:EOLhyphen"/>pleat 250000 <hi>l.</hi> for the Disbanding of the Ar<g ref="char:EOLhyphen"/>my) shall be immediately Cancelled.</p>
+            <p>If any Loans be made in Money, the Com<g ref="char:EOLhyphen"/>missioners of the Treasury shall dispose thereof in Buying Exchequer Bills, and shall cause the Bills so Purchased, to be forthwith Can<g ref="char:EOLhyphen"/>celled.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill,</hi> and the Executrix of <hi>Thomas Newcomb</hi> deceas'd; Printers to the Kings Most Excellent Majesty. M DC XCVIII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
